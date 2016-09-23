@@ -9,7 +9,7 @@
       </Property>
       <Property name="MoveArea" value="Water" />
       <Property name="MinScale" value="0.5" />
-      <Property name="MaxScale" value="1.5" />
+      <Property name="MaxScale" value="3" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -78,8 +78,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="2" />
+      <Property name="MaxScale" value="7" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -277,8 +277,8 @@
         <Property name="CreatureType" value="FlyingSnake" />
       </Property>
       <Property name="MoveArea" value="Air" />
-      <Property name="MinScale" value="3.5" />
-      <Property name="MaxScale" value="4" />
+      <Property name="MinScale" value="7" />
+      <Property name="MaxScale" value="18" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
       </Property>
@@ -351,7 +351,7 @@
       </Property>
       <Property name="MoveArea" value="Air" />
       <Property name="MinScale" value="0.3" />
-      <Property name="MaxScale" value="2" />
+      <Property name="MaxScale" value="4" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -430,7 +430,7 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
+      <Property name="MinScale" value="10" />
       <Property name="MaxScale" value="12" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
@@ -481,7 +481,7 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
+      <Property name="MinScale" value="8" />
       <Property name="MaxScale" value="12" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
@@ -601,7 +601,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MaxScale" value="2" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -720,7 +720,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="1" />
-      <Property name="MaxScale" value="1" />
+      <Property name="MaxScale" value="2" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -749,8 +749,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="4" />
+      <Property name="MaxScale" value="6" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -869,7 +869,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MaxScale" value="4" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -987,8 +987,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="2" />
+      <Property name="MaxScale" value="5" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
       </Property>
@@ -1106,7 +1106,7 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.6" />
+      <Property name="MinScale" value="10" />
       <Property name="MaxScale" value="12" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
@@ -1225,8 +1225,8 @@
         <Property name="CreatureType" value="Shark" />
       </Property>
       <Property name="MoveArea" value="Water" />
-      <Property name="MinScale" value="0.8" />
-      <Property name="MaxScale" value="8" />
+      <Property name="MinScale" value="4" />
+      <Property name="MaxScale" value="6" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
       </Property>
@@ -1302,8 +1302,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="4" />
+      <Property name="MaxScale" value="6" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
       </Property>
@@ -1421,7 +1421,7 @@
         <Property name="CreatureType" value="Butterfly" />
       </Property>
       <Property name="MoveArea" value="Air" />
-      <Property name="MinScale" value="0.1" />
+      <Property name="MinScale" value="0.2" />
       <Property name="MaxScale" value="0.3" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Common" />
@@ -1498,8 +1498,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="4" />
+      <Property name="MaxScale" value="6" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
       </Property>
@@ -1618,7 +1618,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MaxScale" value="4" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
       </Property>
@@ -1736,8 +1736,8 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.6" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MinScale" value="2" />
+      <Property name="MaxScale" value="6" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
       </Property>
@@ -1856,7 +1856,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="0.2" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MaxScale" value="2" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
       </Property>
@@ -1975,7 +1975,7 @@
       </Property>
       <Property name="MoveArea" value="Ground" />
       <Property name="MinScale" value="0.4" />
-      <Property name="MaxScale" value="12" />
+      <Property name="MaxScale" value="3" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Uncommon" />
       </Property>
@@ -2054,7 +2054,7 @@
         <Property name="CreatureType" value="None" />
       </Property>
       <Property name="MoveArea" value="Ground" />
-      <Property name="MinScale" value="0.4" />
+      <Property name="MinScale" value="6" />
       <Property name="MaxScale" value="12" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
@@ -2124,7 +2124,7 @@
       </Property>
       <Property name="MoveArea" value="Water" />
       <Property name="MinScale" value="1.2" />
-      <Property name="MaxScale" value="1.4" />
+      <Property name="MaxScale" value="3" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
       </Property>
@@ -2197,7 +2197,7 @@
       </Property>
       <Property name="MoveArea" value="Water" />
       <Property name="MinScale" value="0.8" />
-      <Property name="MaxScale" value="1.2" />
+      <Property name="MaxScale" value="2" />
       <Property name="Rarity" value="GcRarity.xml">
         <Property name="Rarity" value="Rare" />
       </Property>
