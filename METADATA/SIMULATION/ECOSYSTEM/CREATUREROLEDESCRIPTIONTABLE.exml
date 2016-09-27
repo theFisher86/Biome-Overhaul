@@ -7,9 +7,9 @@
           <Property name="File"
             value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/TABLEEMPTY.MBIN"/>
           <Property name="BiomeProbability">
-            <Property name="Dead" value="90"/>
-            <Property name="Low" value="70"/>
-            <Property name="Mid" value="5"/>
+            <Property name="Dead" value="100"/>
+            <Property name="Low" value="10"/>
+            <Property name="Mid" value="0"/>
             <Property name="Full" value="0"/>
           </Property>
         </Property>
@@ -26,19 +26,66 @@
       </Property>
     </Property>
     <Property name="Toxic" value="GcCreatureRoleFilenameList.xml">
-      <Property name="Options"/>
+      <Property name="Options">
+        <Property value="GcCreatureRoleFilename.xml">
+          <Property name="File"
+            value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLELUSH.MBIN"/>
+          <Property name="BiomeProbability">
+            <Property name="Dead" value="0"/>
+            <Property name="Low" value="5"/>
+            <Property name="Mid" value="50"/>
+            <Property name="Full" value="100"/>
+          </Property>
+        </Property>
+        </Property>
     </Property>
     <Property name="Scorched" value="GcCreatureRoleFilenameList.xml">
-      <Property name="Options"/>
+      <Property name="Options">
+        <Property name="File"
+          value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLELUSH.MBIN"/>
+        <Property name="BiomeProbability">
+          <Property name="Dead" value="0"/>
+          <Property name="Low" value="5"/>
+          <Property name="Mid" value="50"/>
+          <Property name="Full" value="100"/>
+        </Property>
+      </Property>
     </Property>
     <Property name="Radioactive" value="GcCreatureRoleFilenameList.xml">
-      <Property name="Options"/>
+      <Property name="Options">
+        <Property name="File"
+          value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLELUSH.MBIN"/>
+        <Property name="BiomeProbability">
+          <Property name="Dead" value="0"/>
+          <Property name="Low" value="5"/>
+          <Property name="Mid" value="50"/>
+          <Property name="Full" value="100"/>
+        </Property>
+      </Property>
     </Property>
     <Property name="Frozen" value="GcCreatureRoleFilenameList.xml">
-      <Property name="Options"/>
+      <Property name="Options">
+        <Property name="File"
+          value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLELUSH.MBIN"/>
+        <Property name="BiomeProbability">
+          <Property name="Dead" value="0"/>
+          <Property name="Low" value="5"/>
+          <Property name="Mid" value="50"/>
+          <Property name="Full" value="100"/>
+        </Property>
+      </Property>
     </Property>
     <Property name="Barren" value="GcCreatureRoleFilenameList.xml">
-      <Property name="Options"/>
+      <Property name="Options">
+        <Property name="File"
+          value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLELUSH.MBIN"/>
+        <Property name="BiomeProbability">
+          <Property name="Dead" value="0"/>
+          <Property name="Low" value="5"/>
+          <Property name="Mid" value="50"/>
+          <Property name="Full" value="100"/>
+        </Property>
+      </Property>
     </Property>
     <Property name="Dead" value="GcCreatureRoleFilenameList.xml">
       <Property name="Options">
@@ -48,18 +95,18 @@
           <Property name="BiomeProbability">
             <Property name="Dead" value="100"/>
             <Property name="Low" value="100"/>
-            <Property name="Mid" value="100"/>
-            <Property name="Full" value="100"/>
+            <Property name="Mid" value="70"/>
+            <Property name="Full" value="0"/>
           </Property>
         </Property>
         <Property value="GcCreatureRoleFilename.xml">
           <Property name="File"
             value="METADATA/SIMULATION/ECOSYSTEM/ROLEDESCRIPTIONTABLES/GROUND/BIOMETABLEDEAD.MBIN"/>
           <Property name="BiomeProbability">
-            <Property name="Dead" value="10"/>
+            <Property name="Dead" value="0"/>
             <Property name="Low" value="0"/>
-            <Property name="Mid" value="0"/>
-            <Property name="Full" value="0"/>
+            <Property name="Mid" value="20"/>
+            <Property name="Full" value="100"/>
           </Property>
         </Property>
       </Property>
