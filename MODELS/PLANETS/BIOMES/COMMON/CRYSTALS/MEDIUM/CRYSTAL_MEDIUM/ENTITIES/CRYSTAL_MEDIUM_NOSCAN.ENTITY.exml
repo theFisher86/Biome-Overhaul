@@ -36,7 +36,30 @@
       <Property name="ShowInteractRange" value="20" />
       <Property name="GrenadeSingleHit" value="True" />
     </Property>
-    <Property value="GcShootableComponentData.xml">
+	<Data template="GcSimpleInteractionComponentData">
+      <Property name="SimpleInteractionType" value="GenericReward" />
+      <Property name="InteractDistance" value="0" />
+      <Property name="Id" value="CRYSTAL_GAMBLE" />
+      <Data name="Rarity" template="GcRarity">
+        <Property name="Rarity" value="Rare" />
+      </Data>
+      <Data name="SizeIndicator" template="GcSizeIndicator">
+        <Property name="SizeIndicator" value="Small" />
+      </Data>
+      <Property name="TriggerAction" value="" />
+      <Property name="BroadcastTriggerAction" value="False" />
+      <Property name="Delay" value="0" />
+      <Property name="InteractIsCrime" value="True" />
+      <Property name="InteractCrimeLevel" value="3" />
+      <Data name="ActivationCost" template="GcInteractionActivationCost">
+        <Property name="SubstanceId" value="" />
+        <Property name="AltIds" />
+        <Property name="Cost" value="0" />
+        <Property name="Repeat" value="False" />
+      </Data>
+      <Property name="Name" value="" />
+    </Data>    
+	<Property value="GcShootableComponentData.xml">
       <Property name="Health" value="60" />
       <Property name="AutoAimTarget" value="False" />
       <Property name="PlayerOnly" value="False" />
