@@ -269,16 +269,16 @@
       </Property>
       <Property name="Options">
         <Property name="Dead" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE_NOSCAN.MBIN" />
         </Property>
         <Property name="Low" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE_NOSCAN.MBIN" />
         </Property>
         <Property name="Mid" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE_NOSCAN.MBIN" />
         </Property>
         <Property name="Full" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/FULLSAFE_NOSCAN.MBIN" />
         </Property>
       </Property>
       <Property name="AllowLimiting" value="True" />
@@ -313,16 +313,16 @@
       </Property>
       <Property name="Options">
         <Property name="Dead" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/DEAD.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/NOSCAN.MBIN" />
         </Property>
         <Property name="Low" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/NOSCAN.MBIN" />
         </Property>
         <Property name="Mid" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/NOSCAN.MBIN" />
         </Property>
         <Property name="Full" value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN" />
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/NOSCAN.MBIN" />
         </Property>
       </Property>
       <Property name="AllowLimiting" value="False" />
@@ -367,10 +367,10 @@
       <Property name="BlobsSmall" value="1" />
       <Property name="Substance" value="0" />
     </Property>
-    <Property name="UndergroundCaves" value="1" />
+    <Property name="UndergroundCaves" value="0" />
     <Property name="WaterActiveFrequency" value="0.9" />
     <Property name="HighWaterActiveFrequency" value="0.5" />
     <Property name="RockTileFrequency" value="0.25" />
-    <Property name="SubstanceTileFrequency" value="0.25" />
+    <Property name="SubstanceTileFrequency" value="0.10" />
   </Property>
 </Data>

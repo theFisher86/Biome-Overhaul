@@ -6,7 +6,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/TREES/MEDIUMTREE1.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/COMMON/TREES/MEDIUMTREE1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -157,7 +157,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/TREES/MEDIUMTREE1.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/COMMON/TREES/MEDIUMTREE1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -425,7 +425,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/PLANTS/MEDIUMBUSH.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/RAINFOREST/MEDIUMPLANT/MEDIUMFALLENTREE1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -508,7 +508,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/ROCKS/MEDIUM/MEDIUMROCK.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/RAINFOREST/MEDIUMPROP/MEDIUMROCK1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -706,7 +706,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/PLANTS/LARGEPLANT.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/COMMON/TREES/LARGETREE1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -952,7 +952,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/ROCKS/LARGE/LARGEROCK.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/COMMON/ROCKS/LARGE/LARGEROCK.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -1067,7 +1067,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/ROCKS/MEDIUM/MEDIUMROCK.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/RAINFOREST/MEDIUMPROP/MEDIUMWATERROCK1.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -1345,7 +1345,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/ROCKS/LARGE/LARGEROCK.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/COMMON/ROCKS/LARGE/LARGEROCK.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
@@ -2251,7 +2251,7 @@
       <Property value="GcObjectSpawnData.xml">
         <Property name="Type" value="Instanced" />
         <Property name="Resource" value="GcResourceElement.xml">
-          <Property name="Filename" value="MODELS/PLANETS/BIOMES/COMMON/PLANTS/MEDIUMPLANT.SCENE.MBIN" />
+          <Property name="Filename" value="MODELS/PLANETS/BIGBIOMES/RAINFOREST/MEDIUMPLANT/MEDIUMFALLENTREE2.SCENE.MBIN" />
           <Property name="GenerationSeed" value="GcSeed.xml">
             <Property name="Seed" value="0" />
             <Property name="UseSeedValue" value="False" />
